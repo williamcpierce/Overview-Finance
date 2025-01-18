@@ -1,5 +1,5 @@
 2025-01-01 * Equity | Opening balance
-    assets:bank                                  $0.00 = $0.00
+    assets:cash:bank                             $0.00 = $0.00
     liabilities:payable:william_pierce        $-140.00 = $-140.00
     equity:opening/closing
 
