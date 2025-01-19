@@ -1,36 +1,37 @@
 2024-01-01 * Equity | Opening balance
-    assets:cash:bank                             $0.00 = $0.00
+    assets:cash:bank              0.00 USD = 0.00 USD
     equity:opening/closing
 
 2024-05-31 * OpenAI | ChatGPT Plus
-    expenses:development:tool:llm               $20.00
+    expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
 
 2024-06-30 * Anthropic | Claude Pro
-    expenses:development:tool:llm               $20.00
+    expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
 
 2024-09-14 * Anthropic | Claude Pro
-    expenses:development:tool:llm               $20.00
+    expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
 
 2024-09-15 * OpenAI | ChatGPT Plus
-    expenses:development:tool:llm               $20.00
+    expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
 
 2024-10-16 * Anthropic | Claude Pro
-    expenses:development:tool:llm               $20.00
+    expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
 
 2024-11-22 * Anthropic | Claude Pro
-    expenses:development:tool:llm               $20.00
+    expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
 
 2024-12-28 * Anthropic | Claude Pro
-    expenses:development:tool:llm               $20.00
+    expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
 
 2024-12-31 * Equity | Closing balance
-    liabilities:payable:william_pierce         $140.00 = $0.00
-    assets:cash:bank                             $0.00 = $0.00
+    liabilities:payable:william_pierce      140.00 USD = 0.00 USD
+    assets:cash:bank                          0.00 USD = 0.00 USD
     equity:opening/closing
+
