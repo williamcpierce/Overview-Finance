@@ -1,21 +1,21 @@
 2025-01-01 * Equity | Opening balance
-    assets:cash:bank                             $0.00 = $0.00
-    liabilities:payable:william_pierce        $-140.00 = $-140.00
+    assets:cash:bank                          0.00 USD = 0.00 USD
+    liabilities:payable:william_pierce     -140.00 USD = -140.00 USD
     equity:opening/closing
 
 2025-01-17 * Apple | Apple Developer Program
-    expenses:development:membership             $99.00
-    expenses:development:membership              $8.54  ; tax:sales
-    liabilities:payable:william_pierce        $-107.54
+    expenses:development:membership          99.00 USD
+    expenses:development:membership           8.54 USD  ; tax:sales
+    liabilities:payable:william_pierce     -107.54 USD
 
 2025-01-18 * Prozn | Donation
-    income:donation:github         $-10.00
+    income:donation:github      -10.00 USD
     assets:balance:github
 
 2025-01-18 * Calkemen Morel | Donation
-    income:donation:github        $-250.00
+    income:donation:github     -250.00 USD
     assets:balance:github
 
 2025-01-18 * Anonymous | Donation
-    income:donation:github         $-10.00
+    income:donation:github      -10.00 USD
     assets:balance:github
