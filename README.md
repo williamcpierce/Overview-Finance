@@ -1,6 +1,8 @@
 # Overview Project Finances
 
-This repository tracks all financial transactions for the Overview project using [hledger](https://hledger.org/), a free and open source plain text accounting system. For information about the project's funding policies and donation methods, see the [main Overview repository](https://github.com/williamcpierce/Overview).
+This repository tracks all financial transactions for the [Overview](https://github.com/williamcpierce/Overview) project using [hledger](https://hledger.org/), a free and open source plain text accounting system.
+
+For information about the project's funding policies and donation methods, see the [main project repository](https://github.com/williamcpierce/Overview).
 
 ## Current Status (as of January 19, 2025)
 
@@ -65,18 +67,18 @@ Current liabilities total 247.54 USD, representing pending reimbursements for ap
 
 This project uses double-entry bookkeeping, where each transaction must balance to zero. The main accounts are:
 
--   `assets:cash:bank` - Project bank account balance
+-   `assets:*` - Project bank/platform account balances
 -   `expenses:*` - Project expenses by category
--   `liabilities:payable:*` - Approved expenses pending reimbursement
+-   `liabilities:payable:*` - Pending expense reimbursements
 -   `equity:*` - Opening/closing balances between years
 
 ### Example Transaction
 
 ```
 2025-01-17 * Apple | Apple Developer Program
-    expenses:development:membership             $99.00
-    expenses:development:membership              $8.54  ; tax:sales
-    liabilities:payable:william_pierce        $-107.54
+    expenses:development:membership          99.00 USD
+    expenses:development:membership           8.54 USD  ; tax:sales
+    liabilities:payable:william_pierce     -107.54 USD
 ```
 
 Each transaction includes:
