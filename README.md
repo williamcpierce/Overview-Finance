@@ -2,21 +2,58 @@
 
 This repository tracks all financial transactions for the Overview project using [hledger](https://hledger.org/), a free and open source plain text accounting system. For information about the project's funding policies and donation methods, see the [main Overview repository](https://github.com/williamcpierce/Overview).
 
-## Current Status (as of January 18, 2025)
+## Current Status (as of January 19, 2025)
+
+### Income Statement
+
+Current revenues total 270.00 USD, representing GitHub Sponsors donations.
+
+Current expenses total 247.54 USD, representing approved project expenses.
 
 ```
-                   0  assets:cash:bank
-             $107.54  expenses:development:membership
-             $140.00  expenses:development:tool:llm
-            $-247.54  liabilities:payable:william_pierce
---------------------
-                   0
+
+                        || 2024Q2  2024Q3  2024Q4  2025Q1    Total
+========================++=========================================
+ Revenues               ||
+------------------------++-----------------------------------------
+ donation:github        ||      0       0       0  270.00   270.00
+------------------------++-----------------------------------------
+                        ||      0       0       0  270.00   270.00
+========================++=========================================
+ Expenses               ||
+------------------------++-----------------------------------------
+ development:membership ||      0       0       0  107.54   107.54
+ development:tool:llm   ||  40.00   40.00   60.00       0   140.00
+------------------------++-----------------------------------------
+                        ||  40.00   40.00   60.00  107.54   247.54
+========================++=========================================
+ Net:                   || -40.00  -40.00  -60.00  162.46    22.46
 ```
 
-Current expenses total $247.54, representing approved project expenses that are pending reimbursement:
+### Balance Sheet
 
--   Apple Developer Program membership ($107.54 with tax)
--   AI development tool subscriptions ($140.00)
+Current assets total 270.00 USD, representing GitHub Sponsors balance pending payout.
+
+Current liabilities total 247.54 USD, representing pending reimbursements for approved expenses.
+
+```
+                        || 2024-06-30  2024-09-30  2024-12-31  2025-01-19
+========================++================================================
+ Assets                 ||
+------------------------++------------------------------------------------
+ balance:github         ||          0           0           0      270.00
+ cash:bank              ||          0           0           0           0
+------------------------++------------------------------------------------
+                        ||          0           0           0      270.00
+========================++================================================
+ Liabilities            ||
+------------------------++------------------------------------------------
+ payable:william_pierce ||      40.00       80.00      140.00      247.54
+------------------------++------------------------------------------------
+                        ||      40.00       80.00      140.00      247.54
+========================++================================================
+ Net:                   ||     -40.00      -80.00     -140.00       22.46
+```
 
 ## Repository Structure
 
