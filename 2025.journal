@@ -7,3 +7,15 @@
     expenses:development:membership             $99.00
     expenses:development:membership              $8.54  ; tax:sales
     liabilities:payable:william_pierce        $-107.54
+
+2025-01-18 * Prozn | Donation
+    income:donation:github         $-10.00
+    assets:balance:github
+
+2025-01-18 * Calkemen Morel | Donation
+    income:donation:github        $-250.00
+    assets:balance:github
+
+2025-01-18 * Anonymous | Donation
+    income:donation:github         $-10.00
+    assets:balance:github
