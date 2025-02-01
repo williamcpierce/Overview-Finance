@@ -8,9 +8,9 @@ For information about the project's funding policies and donation methods, see t
 
 ### Income Statement
 
-Current revenues total 270.00 USD, representing GitHub Sponsors donations.
+Current revenues total 280.00 USD, representing GitHub Sponsors donations.
 
-Current expenses total 247.54 USD, representing approved project expenses.
+Current expenses total 259.00 USD, representing approved project expenses.
 
 ```
 
@@ -18,43 +18,45 @@ Current expenses total 247.54 USD, representing approved project expenses.
 ========================++=========================================
  Revenues               ||
 ------------------------++-----------------------------------------
- donation:github        ||      0       0       0  270.00   270.00
+ donation:github        ||      0       0       0  275.00   275.00
+ donation:patreon       ||      0       0       0    5.00     5.00
 ------------------------++-----------------------------------------
-                        ||      0       0       0  270.00   270.00
+                        ||      0       0       0  280.00   280.00
 ========================++=========================================
  Expenses               ||
 ------------------------++-----------------------------------------
  development:membership ||      0       0       0   99.00    99.00
- development:tool:llm   ||  40.00   40.00   60.00       0   140.00
+ development:tool:llm   ||  40.00   40.00   60.00   20.00   160.00
 ------------------------++-----------------------------------------
-                        ||  40.00   40.00   60.00   99.00   239.00
+                        ||  40.00   40.00   60.00  119.00   259.00
 ========================++=========================================
- Net:                   || -40.00  -40.00  -60.00  171.00    31.00
+ Net:                   || -40.00  -40.00  -60.00  161.00    21.00
 ```
 
 ### Balance Sheet
 
-Current assets total 270.00 USD, representing GitHub Sponsors balance pending payout.
+Current assets total 280.00 USD, representing GitHub Sponsors and Patreon balances pending payout.
 
-Current liabilities total 247.54 USD, representing pending reimbursements for approved expenses.
+Current liabilities total 259.00 USD, representing pending reimbursements for approved expenses.
 
 ```
-                        || 2024-06-30  2024-09-30  2024-12-31  2025-01-19
+                        || 2024-06-30  2024-09-30  2024-12-31  2025-01-31
 ========================++================================================
  Assets                 ||
 ------------------------++------------------------------------------------
- balance:github         ||          0           0           0      270.00
+ balance:github         ||          0           0           0      275.00
+ balance:patreon        ||          0           0           0        5.00
  cash:bank              ||          0           0           0           0
 ------------------------++------------------------------------------------
-                        ||          0           0           0      270.00
+                        ||          0           0           0      280.00
 ========================++================================================
  Liabilities            ||
 ------------------------++------------------------------------------------
- payable:william_pierce ||      40.00       80.00      140.00      239.00
+ payable:william_pierce ||      40.00       80.00      140.00      259.00
 ------------------------++------------------------------------------------
-                        ||      40.00       80.00      140.00      239.00
+                        ||      40.00       80.00      140.00      259.00
 ========================++================================================
- Net:                   ||     -40.00      -80.00     -140.00       31.00
+ Net:                   ||     -40.00      -80.00     -140.00       21.00
 ```
 
 ## Repository Structure

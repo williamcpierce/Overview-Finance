@@ -18,3 +18,15 @@
 2025-01-18 * Anonymous | Donation
     assets:balance:github        10.00 USD
     income:donation:github
+
+2025-01-26 * Llilith Day | Donation
+    assets:balance:patreon         5.00 USD
+    income:donation:patreon
+
+2025-01-27 * Anonymous | Donation
+    assets:balance:github         5.00 USD
+    income:donation:github
+
+2025-01-29 * Anthropic | Claude Pro
+    expenses:development:tool:llm            20.00 USD
+    liabilities:payable:william_pierce
