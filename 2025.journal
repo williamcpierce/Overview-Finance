@@ -5,16 +5,16 @@
 
 2025-01-17 * Apple | Apple Developer Program
     expenses:development:membership          99.00 USD
-    liabilities:payable:william_pierce      -99.00 USD
+    liabilities:payable:william_pierce
 
 2025-01-18 * Prozn | Donation
-    income:donation:github      -10.00 USD
-    assets:balance:github
+    assets:balance:github        10.00 USD
+    income:donation:github
 
 2025-01-18 * Calkemen Morel | Donation
-    income:donation:github     -250.00 USD
-    assets:balance:github
+    assets:balance:github       250.00 USD
+    income:donation:github
 
 2025-01-18 * Anonymous | Donation
-    income:donation:github      -10.00 USD
-    assets:balance:github
+    assets:balance:github        10.00 USD
+    income:donation:github
