@@ -4,7 +4,7 @@ This repository tracks all financial transactions for the [Overview](https://git
 
 For information about the project's funding policies and donation methods, see the [main project repository](https://github.com/williamcpierce/Overview).
 
-## Current Status (as of January 19, 2025)
+## Current Status (as of January 31, 2025)
 
 ### Income Statement
 
