@@ -5,17 +5,28 @@
 
 2025-01-17 * Apple | Apple Developer Program
     expenses:development:membership          99.00 USD
-    expenses:development:membership           8.54 USD  ; tax:sales
-    liabilities:payable:william_pierce     -107.54 USD
+    liabilities:payable:william_pierce
 
 2025-01-18 * Prozn | Donation
-    income:donation:github      -10.00 USD
-    assets:balance:github
+    assets:balance:github        10.00 USD
+    income:donation:github
 
 2025-01-18 * Calkemen Morel | Donation
-    income:donation:github     -250.00 USD
-    assets:balance:github
+    assets:balance:github       250.00 USD
+    income:donation:github
 
 2025-01-18 * Anonymous | Donation
-    income:donation:github      -10.00 USD
-    assets:balance:github
+    assets:balance:github        10.00 USD
+    income:donation:github
+
+2025-01-26 * Llilith Day | Donation
+    assets:balance:patreon         5.00 USD
+    income:donation:patreon
+
+2025-01-27 * Anonymous | Donation
+    assets:balance:github         5.00 USD
+    income:donation:github
+
+2025-01-29 * Anthropic | Claude Pro
+    expenses:development:tool:llm            20.00 USD
+    liabilities:payable:william_pierce
