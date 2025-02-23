@@ -10,7 +10,7 @@ For information about the project's funding policies and donation methods, see t
 
 Current revenues total 280.00 USD, representing GitHub Sponsors and Patreon donations.
 
-Current expenses total 324.00 USD, representing approved project expenses.
+Current expenses total 324.85 USD, representing approved project expenses and fees.
 
 ```
                         || 2024Q2  2024Q3   2024Q4  2025Q1    Total
@@ -26,16 +26,18 @@ Current expenses total 324.00 USD, representing approved project expenses.
 ------------------------++------------------------------------------
  development:membership ||      0       0        0   99.00    99.00
  development:tool:llm   ||  40.00   40.00    60.00   40.00   180.00
+ fee:payment            ||      0       0        0    0.45     0.45
+ fee:platform           ||      0       0        0    0.40     0.40
  marketing:domain       ||      0       0    45.00       0    45.00
 ------------------------++------------------------------------------
-                        ||  40.00   40.00   105.00  139.00   324.00
+                        ||  40.00   40.00   105.00  139.85   324.85
 ========================++==========================================
- Net:                   || -40.00  -40.00  -105.00  141.00   -44.00
+ Net:                   || -40.00  -40.00  -105.00  140.15   -44.85
 ```
 
 ### Balance Sheet
 
-Current assets total 280.00 USD, representing GitHub Sponsors and Patreon balances pending payout.
+Current assets total 279.15 USD, representing GitHub Sponsors and Patreon balances pending payout.
 
 Current liabilities total 324.00 USD, representing pending reimbursements for approved expenses.
 
@@ -45,10 +47,10 @@ Current liabilities total 324.00 USD, representing pending reimbursements for ap
  Assets                 ||
 ------------------------++------------------------------------------------
  balance:github         ||          0           0           0      275.00
- balance:patreon        ||          0           0           0        5.00
+ balance:patreon        ||          0           0           0        4.15
  cash:bank              ||          0           0           0           0
 ------------------------++------------------------------------------------
-                        ||          0           0           0      280.00
+                        ||          0           0           0      279.15
 ========================++================================================
  Liabilities            ||
 ------------------------++------------------------------------------------
@@ -56,7 +58,7 @@ Current liabilities total 324.00 USD, representing pending reimbursements for ap
 ------------------------++------------------------------------------------
                         ||      40.00       80.00      185.00      324.00
 ========================++================================================
- Net:                   ||     -40.00      -80.00     -185.00      -44.00
+ Net:                   ||     -40.00      -80.00     -185.00      -44.85
 ```
 
 ## Repository Structure
