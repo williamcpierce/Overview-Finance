@@ -4,61 +4,53 @@ This repository tracks all financial transactions for the [Overview](https://git
 
 For information about the project's funding policies and donation methods, see the [main project repository](https://github.com/williamcpierce/Overview).
 
-## Current Status (as of January 31, 2025)
+## Current Status (as of March 1, 2025)
 
-### Income Statement
-
-Current revenues total 280.00 USD, representing GitHub Sponsors and Patreon donations.
-
-Current expenses total 324.85 USD, representing approved project expenses and fees.
+### Income Statement (USD)
 
 ```
                         || 2024Q2  2024Q3   2024Q4  2025Q1    Total
 ========================++==========================================
  Revenues               ||
 ------------------------++------------------------------------------
- donation:github        ||      0       0        0  275.00   275.00
- donation:patreon       ||      0       0        0    5.00     5.00
+ donation:github        ||      0       0        0  280.00   280.00
+ donation:patreon       ||      0       0        0   15.00    15.00
 ------------------------++------------------------------------------
-                        ||      0       0        0  280.00   280.00
+                        ||      0       0        0  295.00   295.00
 ========================++==========================================
  Expenses               ||
 ------------------------++------------------------------------------
  development:membership ||      0       0        0   99.00    99.00
- development:tool:llm   ||  40.00   40.00    60.00   40.00   180.00
- fee:payment            ||      0       0        0    0.45     0.45
- fee:platform           ||      0       0        0    0.40     0.40
+ development:tool:llm   ||  40.00   40.00    60.00   60.00   200.00
+ fee:payment            ||      0       0        0    1.35     1.35
+ fee:platform           ||      0       0        0    1.20     1.20
  marketing:domain       ||      0       0    45.00       0    45.00
+ marketing:tool:video   ||      0       0        0   29.00    29.00
 ------------------------++------------------------------------------
-                        ||  40.00   40.00   105.00  139.85   324.85
+                        ||  40.00   40.00   105.00  190.55   375.55
 ========================++==========================================
- Net:                   || -40.00  -40.00  -105.00  140.15   -44.85
 ```
 
-### Balance Sheet
-
-Current assets total 279.15 USD, representing GitHub Sponsors and Patreon balances pending payout.
-
-Current liabilities total 324.00 USD, representing pending reimbursements for approved expenses.
+### Balance Sheet (USD)
 
 ```
-                        || 2024-06-30  2024-09-30  2024-12-31  2025-03-31
+                        || 2024-06-30  2024-09-30  2024-12-31  2025-03-01
 ========================++================================================
  Assets                 ||
 ------------------------++------------------------------------------------
- balance:github         ||          0           0           0      275.00
- balance:patreon        ||          0           0           0        4.15
+ balance:github         ||          0           0           0      280.00
+ balance:patreon        ||          0           0           0       12.45
  cash:bank              ||          0           0           0           0
 ------------------------++------------------------------------------------
-                        ||          0           0           0      279.15
+                        ||          0           0           0      292.45
 ========================++================================================
  Liabilities            ||
 ------------------------++------------------------------------------------
- payable:william_pierce ||      40.00       80.00      185.00      324.00
+ payable:william_pierce ||      40.00       80.00      185.00      373.00
 ------------------------++------------------------------------------------
-                        ||      40.00       80.00      185.00      324.00
+                        ||      40.00       80.00      185.00      373.00
 ========================++================================================
- Net:                   ||     -40.00      -80.00     -185.00      -44.85
+ Net:                   ||     -40.00      -80.00     -185.00      -80.55
 ```
 
 ## Repository Structure
