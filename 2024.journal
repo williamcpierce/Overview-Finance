@@ -18,6 +18,10 @@
     expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
 
+2024-10-07 * Cloudflare | williampierce.io
+    expenses:marketing:domain                45.00 USD
+    liabilities:payable:william_pierce
+
 2024-10-16 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
@@ -31,7 +35,6 @@
     liabilities:payable:william_pierce
 
 2024-12-31 * Equity | Closing balance
-    liabilities:payable:william_pierce      140.00 USD = 0.00 USD
+    liabilities:payable:william_pierce      185.00 USD = 0.00 USD
     assets:cash:bank                          0.00 USD = 0.00 USD
     equity:opening/closing
-
