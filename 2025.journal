@@ -19,19 +19,23 @@
     assets:balance:github        10.00 USD
     income:donation:github
 
-2025-01-26 * Llilith Day | Donation
-    assets:balance:patreon         4.15 USD
-    expenses:fee:payment           0.45 USD
-    expenses:fee:platform          0.40 USD
-    income:donation:patreon       -5.00 USD
-
 2025-01-27 * Anonymous | Donation
-    assets:balance:github         5.00 USD
+    assets:balance:github         1.94 USD
     income:donation:github
 
 2025-01-29 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
+
+2025-01-31 * Patreon | Donations
+    assets:balance:patreon         4.15 USD
+    expenses:fee:payment           0.45 USD
+    expenses:fee:platform          0.40 USD
+    income:donation:patreon       -5.00 USD
+
+2025-02-08 * Anonymous | Donation
+    assets:balance:github         5.00 USD
+    income:donation:github
 
 2025-02-20 * OpenAI | ChatGPT Plus
     expenses:development:tool:llm            20.00 USD
@@ -41,22 +45,38 @@
     expenses:marketing:tool:video            29.00 USD
     liabilities:payable:william_pierce
 
-2025-02-26 * Zed Al'Thor | Donation
-    assets:balance:patreon         4.15 USD
-    expenses:fee:payment           0.45 USD
-    expenses:fee:platform          0.40 USD
-    income:donation:patreon       -5.00 USD
-
-2025-02-26 * Llilith Day | Donation
-    assets:balance:patreon         4.15 USD
-    expenses:fee:payment           0.45 USD
-    expenses:fee:platform          0.40 USD
-    income:donation:patreon       -5.00 USD
-
-2025-02-27 * Anonymous | Donation
-    assets:balance:github         5.00 USD
-    income:donation:github
-
 2025-02-28 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce
+
+2025-02-28 * Patreon | Donations
+    assets:balance:patreon         8.30 USD
+    expenses:fee:payment           0.90 USD
+    expenses:fee:platform          0.80 USD
+    income:donation:patreon      -10.00 USD
+
+2025-03-08 * Anonymous | Donation
+    assets:balance:github         5.00 USD
+    income:donation:github
+
+2025-03-22 * GitHub | Transfer
+    assets:balance:github     -281.94 USD = 0.00 USD
+    assets:balance:bank        281.94 USD = 281.94 USD  ; date:2025-03-24
+
+2025-03-29 * Anthropic | Claude Pro
+    expenses:development:tool:llm            20.00 USD
+    liabilities:payable:william_pierce
+
+2025-03-31 * Patreon | Donations
+    assets:balance:patreon                 17.40 USD
+    expenses:fee:payment                    1.37 USD
+    expenses:fee:platform                   1.65 USD
+    expenses:fee:conversion                 0.14 USD
+    income:donation:patreon               -15.00 USD
+    income:donation:patreon    -8.00 CAD @@ 5.56 USD
+
+2025-03-31 Patreon | Transfer
+    assets:balance:patreon      -29.85 USD = 0.00 USD
+    ! assets:balance:bank        29.60 USD = 311.54 USD
+    expenses:fee:payout           0.25 USD
+
