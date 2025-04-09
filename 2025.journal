@@ -79,3 +79,7 @@
     assets:balance:patreon      -29.85 USD = 0.00 USD
     assets:balance:bank          29.60 USD = 311.54 USD  ; date:2025-04-02
     expenses:fee:payout           0.25 USD
+
+2025-04-08 William Pierce | Expense Reimbursement
+    liabilities:payable:william_pierce      311.54 USD = -81.46 USD
+    ! assets:balance:bank                  -311.54 USD = 0.00 USD
