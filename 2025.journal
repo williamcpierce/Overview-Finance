@@ -75,8 +75,7 @@
     income:donation:patreon               -15.00 USD
     income:donation:patreon    -8.00 CAD @@ 5.56 USD
 
-2025-03-31 Patreon | Transfer
+2025-03-31 * Patreon | Transfer
     assets:balance:patreon      -29.85 USD = 0.00 USD
-    ! assets:balance:bank        29.60 USD = 311.54 USD
+    assets:balance:bank          29.60 USD = 311.54 USD  ; date:2025-04-02
     expenses:fee:payout           0.25 USD
-
