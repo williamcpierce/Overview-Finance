@@ -1,31 +1,31 @@
 2025-01-01 * Equity | Opening balance
     assets:cash:bank                          0.00 USD = 0.00 USD
     liabilities:payable:william_pierce     -185.00 USD = -185.00 USD
-    equity:opening/closing
+    equity:opening/closing                  185.00 USD
 
 2025-01-17 * Apple | Apple Developer Program
     expenses:development:membership          99.00 USD
-    liabilities:payable:william_pierce
+    liabilities:payable:william_pierce      -99.00 USD
 
 2025-01-18 * Prozn | Donation
     assets:balance:github        10.00 USD
-    income:donation:github
+    income:donation:github      -10.00 USD
 
 2025-01-18 * Calkemen Morel | Donation
     assets:balance:github       250.00 USD
-    income:donation:github
+    income:donation:github     -250.00 USD
 
 2025-01-18 * Anonymous | Donation
     assets:balance:github        10.00 USD
-    income:donation:github
+    income:donation:github      -10.00 USD
 
 2025-01-27 * Anonymous | Donation
     assets:balance:github         1.94 USD
-    income:donation:github
+    income:donation:github       -1.94 USD
 
 2025-01-29 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
-    liabilities:payable:william_pierce
+    liabilities:payable:william_pierce      -20.00 USD
 
 2025-01-31 * Patreon | Donations
     assets:balance:patreon         4.15 USD
@@ -35,19 +35,19 @@
 
 2025-02-08 * Anonymous | Donation
     assets:balance:github         5.00 USD
-    income:donation:github
+    income:donation:github       -5.00 USD
 
 2025-02-20 * OpenAI | ChatGPT Plus
     expenses:development:tool:llm            20.00 USD
-    liabilities:payable:william_pierce
+    liabilities:payable:william_pierce      -20.00 USD
 
 2025-02-24 * Screen Studio
     expenses:marketing:tool:video            29.00 USD
-    liabilities:payable:william_pierce
+    liabilities:payable:william_pierce      -29.00 USD
 
 2025-02-28 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
-    liabilities:payable:william_pierce
+    liabilities:payable:william_pierce      -20.00 USD
 
 2025-02-28 * Patreon | Donations
     assets:balance:patreon         8.30 USD
@@ -57,7 +57,7 @@
 
 2025-03-08 * Anonymous | Donation
     assets:balance:github         5.00 USD
-    income:donation:github
+    income:donation:github       -5.00 USD
 
 2025-03-22 * GitHub | Transfer
     assets:balance:github     -281.94 USD = 0.00 USD
@@ -65,7 +65,7 @@
 
 2025-03-29 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
-    liabilities:payable:william_pierce
+    liabilities:payable:william_pierce      -20.00 USD
 
 2025-03-31 * Patreon | Donations
     assets:balance:patreon                 17.40 USD
