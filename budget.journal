@@ -1,0 +1,68 @@
+~ 2024-05
+    (expenses:development:tool:llm)                  20.00 USD  ; ChatGPT Plus
+
+~ 2024-06
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+
+~ 2024-09
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+    (expenses:development:tool:llm)                  20.00 USD  ; ChatGPT Plus
+
+~ yearly from 2024-10
+    (expenses:marketing:domain)                      45.00 USD
+
+~ 2024-10
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+
+~ 2024-11
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+
+~ 2024-12
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+
+~ yearly from 2025-01
+    (expenses:development:membership)                99.00 USD  ; Apple Developer Program
+
+~ monthly from 2025-01
+    (expenses:fee:payment)                            0.45 USD
+    (expenses:fee:platform)                           0.40 USD
+    (expenses:tax:income)                             1.66 USD  ; tax:income:33.3%
+    (income:donation:patreon)                        -5.00 USD
+
+~ monthly from 2025-02
+    (expenses:fee:payment)                            0.45 USD
+    (expenses:fee:platform)                           0.40 USD
+    (expenses:tax:income)                             3.33 USD  ; tax:income:33.3%
+    (income:donation:github)                         -5.00 USD
+    (income:donation:patreon)                        -5.00 USD
+
+~ monthly from 2025-03
+    (expenses:fee:conversion)                         0.14 USD
+    (expenses:fee:payment)                            0.47 USD
+    (expenses:fee:platform)                           0.85 USD
+    (expenses:tax:income)                             3.52 USD  ; tax:income:33.3%
+    (income:donation:patreon)                        -5.00 USD
+    (income:donation:patreon)            -8.00 CAD @@ 5.56 USD
+
+~ 2025-01
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+    (expenses:tax:income)                            90.56 USD  ; tax:income:33.3%
+    (income:donation:github)                         -1.94 USD  ; prorated:
+    (income:donation:github)                       -270.00 USD
+
+~ 2025-02
+    (expenses:development:tool:llm)                  20.00 USD  ; ChatGPT Plus
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+    (expenses:marketing:tool:video)                  29.00 USD  ; Screen Studio
+
+~ 2025-03
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+    (expenses:fee:payout)                             0.25 USD
+
+~ 2025-04
+    (expenses:development:tool:llm)                   4.84 USD  ; prorated:, GitHub Pro
+    (expenses:tax:income)                             6.66 USD  ; tax:income:33.3%
+    (income:donation:github)                        -20.00 USD
+
+~ yearly from 2025-12
+    (expenses:fee:payout)                             0.25 USD
