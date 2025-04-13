@@ -80,6 +80,14 @@
     assets:balance:bank          29.60 USD = 311.54 USD  ; date:2025-04-02
     expenses:fee:payout           0.25 USD
 
-2025-04-08 William Pierce | Expense Reimbursement
+2025-04-08 * William Pierce | Expense Reimbursement
     liabilities:payable:william_pierce      311.54 USD = -81.46 USD
-    ! assets:balance:bank                  -311.54 USD = 0.00 USD
+    assets:balance:bank                    -311.54 USD = 0.00 USD  ; date:2025-04-09
+
+2025-04-09 * Anonymous | Donation
+    assets:balance:github        20.00 USD
+    income:donation:github      -20.00 USD
+
+2025-04-12 * GitHub | Copilot Pro
+    expenses:development:tool:llm             4.84 USD
+    liabilities:payable:william_pierce       -4.84 USD
