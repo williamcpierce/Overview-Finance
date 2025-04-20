@@ -44,6 +44,13 @@
     (income:donation:patreon)                        -5.00 USD
     (income:donation:patreon)            -8.00 CAD @@ 5.56 USD
 
+~ monthly from 2025-04
+    (expenses:fee:conversion)                         0.21 USD
+    (expenses:fee:payment)                            1.06 USD
+    (expenses:fee:platform)                           0.51 USD
+    (expenses:tax:income)                             2.15 USD  ; tax:income:33.3%
+    (income:donation:patreon)            -5.50 EUR @@ 6.44 USD
+
 ~ 2025-01
     (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
     (expenses:tax:income)                            90.56 USD  ; tax:income:33.3%
