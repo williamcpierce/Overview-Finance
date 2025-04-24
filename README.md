@@ -4,7 +4,7 @@ This repository tracks all financial transactions for the [Overview](https://git
 
 For information about the project's funding policies and donation methods, see the [main project repository](https://github.com/williamcpierce/Overview).
 
-## Current Status (as of April 20, 2025)
+## Current Status (as of April 24, 2025)
 
 ### Forecast
 
@@ -54,11 +54,11 @@ Quarterly Income Statement 2024-04-01..2025-06-30, converted to cost, valued at 
 ==============++=============================================================
  Revenues     ||
 --------------++-------------------------------------------------------------
- donation     || USD             0       0        0  317.50       0   317.50
-   github     || USD             0       0        0  281.94       0   281.94
+ donation     || USD             0       0        0  317.50   25.00   342.50
+   github     || USD             0       0        0  281.94   25.00   306.94
    patreon    || USD             0       0        0   35.56       0    35.56
 --------------++-------------------------------------------------------------
-              || USD             0       0        0  317.50       0   317.50
+              || USD             0       0        0  317.50   25.00   342.50
 ==============++=============================================================
  Expenses     ||
 --------------++-------------------------------------------------------------
@@ -73,11 +73,11 @@ Quarterly Income Statement 2024-04-01..2025-06-30, converted to cost, valued at 
  marketing    || USD             0       0    45.00   29.00       0    74.00
    domain     || USD             0       0    45.00       0       0    45.00
    tool:video || USD             0       0        0   29.00       0    29.00
- tax:income   || USD             0       0        0  105.72       0   105.72
+ tax:income   || USD             0       0        0  105.72    8.32   114.04
 --------------++-------------------------------------------------------------
-              || USD         40.00   40.00   105.00  319.68    4.84   509.52
+              || USD         40.00   40.00   105.00  319.68   13.16   517.84
 ==============++=============================================================
- Net:         || USD        -40.00  -40.00  -105.00   -2.18   -4.84  -192.02
+ Net:         || USD        -40.00  -40.00  -105.00   -2.18   11.84  -175.34
 ```
 
 ### Balance Sheet
@@ -94,17 +94,17 @@ Quarterly Balance Sheet 2024-06-30..2025-06-30, converted to cost, valued at per
  balance                ||                     0           0           0           0           0
    github               ||                     0           0           0           0           0
    patreon              ||                     0           0           0           0           0
- cash:bank              || USD                 0           0           0      281.94           0
+ cash:bank              || USD                 0           0           0      281.94       25.00
 ------------------------++-----------------------------------------------------------------------
-                        || USD                 0           0           0      281.94           0
+                        || USD                 0           0           0      281.94       25.00
 ========================++=======================================================================
  Liabilities            ||
 ------------------------++-----------------------------------------------------------------------
- payable:william_pierce || USD             40.00       80.00      185.00      498.72      192.02
+ payable:william_pierce || USD             40.00       80.00      185.00      498.72      200.34
 ------------------------++-----------------------------------------------------------------------
-                        || USD             40.00       80.00      185.00      498.72      192.02
+                        || USD             40.00       80.00      185.00      498.72      200.34
 ========================++=======================================================================
- Net:                   || USD            -40.00      -80.00     -185.00     -216.78     -192.02
+ Net:                   || USD            -40.00      -80.00     -185.00     -216.78     -175.34
 ```
 
 ## Understanding the Ledger
@@ -148,13 +148,6 @@ For a list of all transactions:
 
 ```bash
 hledger -f all.journal reg
-```
-
-To generate the above income statement and balance sheet:
-
-```bash
-hledger -f all.journal is -p "from 2024-04" -TEVBQt not:payee:equity --layout=bare --drop=1
-hledger -f all.journal bs -p "from 2024-04 to today" -TEVBQt not:payee:equity --layout=bare --drop=1
 ```
 
 ## Repository Structure
