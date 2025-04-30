@@ -67,6 +67,7 @@
     (expenses:fee:payout)                             0.25 USD
 
 ~ 2025-04
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
     (expenses:development:tool:llm)                   4.84 USD  ; prorated:, GitHub Pro
     (expenses:tax:income)                             6.66 USD  ; tax:income:33.3%
     (income:donation:github)                        -20.00 USD

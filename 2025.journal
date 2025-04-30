@@ -94,6 +94,10 @@
     expenses:tax:income                       8.32 USD  ; tax:income:33.3%
     liabilities:payable:william_pierce       -8.32 USD
 
+2025-04-29 * Anthropic | Claude Pro
+    expenses:development:tool:llm            20.00 USD
+    liabilities:payable:william_pierce      -20.00 USD
+
 ; 2025-04-30 ! Patreon | Donations
 ;     assets:balance:patreon                            22.06 USD
 ;     expenses:fee:payment                               2.43 USD
