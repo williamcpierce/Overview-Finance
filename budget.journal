@@ -72,5 +72,8 @@
     (expenses:tax:income)                             6.66 USD  ; tax:income:33.3%
     (income:donation:github)                        -20.00 USD
 
+~ 2025-05
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+
 ~ yearly from 2025-12
     (expenses:fee:payout)                             0.25 USD
