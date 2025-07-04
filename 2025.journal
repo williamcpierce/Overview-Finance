@@ -146,6 +146,10 @@
     expenses:tax:income                                5.45 USD  ; tax:income:33.3%
     liabilities:payable:william_pierce                -5.45 USD
 
+2025-07-04 * William Pierce | Expense Reimbursement
+    liabilities:payable:william_pierce       35.00 USD
+    assets:cash:bank                        -35.00 USD = 0.00 USD  ; date:2025-07-07
+
 2025-07-31 ! Patreon | Donations
     ; estimate:
     assets:balance:patreon                            13.65 USD
