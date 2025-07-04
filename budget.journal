@@ -23,53 +23,74 @@
 ~ yearly from 2025-01
     (expenses:development:membership)                99.00 USD  ; Apple Developer Program
 
-~ monthly from 2025-01
-    (expenses:fee:payment)                            0.45 USD
-    (expenses:fee:platform)                           0.40 USD
-    (expenses:tax:income)                             1.66 USD  ; tax:income:33.3%
-    (income:donation:patreon)                        -5.00 USD
-
-~ monthly from 2025-02
-    (expenses:fee:payment)                            0.45 USD
-    (expenses:fee:platform)                           0.40 USD
-    (expenses:tax:income)                             3.33 USD  ; tax:income:33.3%
-    (income:donation:github)                         -5.00 USD
-    (income:donation:patreon)                        -5.00 USD
-
-~ monthly from 2025-03
-    (expenses:fee:conversion)                         0.14 USD
-    (expenses:fee:payment)                            0.47 USD
-    (expenses:fee:platform)                           0.85 USD
-    (expenses:tax:income)                             3.52 USD  ; tax:income:33.3%
-    (income:donation:patreon)                        -5.00 USD
-    (income:donation:patreon)            -8.00 CAD @@ 5.56 USD
-
-~ monthly from 2025-04
-    (expenses:fee:conversion)                         0.21 USD
-    (expenses:fee:payment)                            1.06 USD
-    (expenses:fee:platform)                           0.51 USD
-    (expenses:tax:income)                             2.15 USD  ; tax:income:33.3%
-    (income:donation:patreon)            -5.50 EUR @@ 6.44 USD
-
 ~ 2025-01
     (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
-    (expenses:tax:income)                            90.56 USD  ; tax:income:33.3%
-    (income:donation:github)                         -1.94 USD  ; prorated:
-    (income:donation:github)                       -270.00 USD
+    (expenses:fee:payment)                            0.45 USD
+    (expenses:fee:platform)                           0.40 USD
+    (expenses:tax:income)                            92.22 USD  ; tax:income:33.3%
+    (income:donation:github)                       -271.94 USD
+    (income:donation:patreon)                        -5.00 USD
 
 ~ 2025-02
     (expenses:development:tool:llm)                  20.00 USD  ; ChatGPT Plus
     (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+    (expenses:fee:payment)                            0.90 USD
+    (expenses:fee:platform)                           0.80 USD
     (expenses:marketing:tool:video)                  29.00 USD  ; Screen Studio
+    (expenses:tax:income)                             4.99 USD  ; tax:income:33.3%
+    (income:donation:github)                         -5.00 USD
+    (income:donation:patreon)                       -10.00 USD
 
 ~ 2025-03
     (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+    (expenses:fee:conversion)                         0.14 USD
+    (expenses:fee:payment)                            1.37 USD
     (expenses:fee:payout)                             0.25 USD
+    (expenses:fee:platform)                           1.65 USD
+    (expenses:tax:income)                             8.51 USD  ; tax:income:33.3%
+    (income:donation:github)                         -5.00 USD
+    (income:donation:patreon)                       -15.00 USD
+    (income:donation:patreon)            -8.00 CAD @@ 5.56 USD
 
 ~ 2025-04
     (expenses:development:tool:llm)                   4.84 USD  ; prorated:, GitHub Pro
-    (expenses:tax:income)                             6.66 USD  ; tax:income:33.3%
-    (income:donation:github)                        -20.00 USD
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+    (expenses:fee:conversion)                         0.35 USD
+    (expenses:fee:payment)                            2.11 USD
+    (expenses:fee:platform)                           2.16 USD
+    (expenses:tax:income)                            17.27 USD  ; tax:income:33.3%
+    (income:donation:github)                        -25.00 USD
+    (income:donation:patreon)                       -15.00 USD
+    (income:donation:patreon)            -5.50 EUR @@ 6.53 USD
+    (income:donation:patreon)            -8.00 CAD @@ 5.36 USD
+
+~ 2025-05
+    (expenses:development:tool:llm)                  20.00 USD  ; Claude Pro
+    (expenses:fee:conversion)                         0.35 USD
+    (expenses:fee:payment)                            2.11 USD
+    (expenses:fee:platform)                           2.16 USD
+    (expenses:tax:income)                            10.61 USD  ; tax:income:33.3%
+    (income:donation:github)                         -5.00 USD
+    (income:donation:patreon)                       -15.00 USD
+    (income:donation:patreon)            -5.50 EUR @@ 6.53 USD
+    (income:donation:patreon)            -8.00 CAD @@ 5.36 USD
+
+~ 2025-06
+    (expenses:fee:conversion)                         0.20 USD
+    (expenses:fee:payment)                            1.20 USD
+    (expenses:fee:platform)                           1.31 USD
+    (expenses:tax:income)                             7.11 USD  ; tax:income:33.3%
+    (income:donation:github)                         -5.00 USD
+    (income:donation:patreon)                       -10.00 USD
+    (income:donation:patreon)            -5.50 EUR @@ 6.36 USD
+
+~ monthly from 2025-07
+    (expenses:fee:conversion)                         0.20 USD
+    (expenses:fee:payment)                            1.20 USD
+    (expenses:fee:platform)                           1.31 USD
+    (expenses:tax:income)                             5.45 USD  ; tax:income:33.3%
+    (income:donation:patreon)                       -10.00 USD
+    (income:donation:patreon)            -5.50 EUR @@ 6.36 USD
 
 ~ yearly from 2025-12
     (expenses:fee:payout)                             0.25 USD
