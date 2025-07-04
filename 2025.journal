@@ -98,14 +98,14 @@
     expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce      -20.00 USD
 
-2025-04-30 Patreon | Donations
+2025-04-30 * Patreon | Donations
     assets:balance:patreon                            22.27 USD
     expenses:fee:payment                               2.11 USD
     expenses:fee:platform                              2.16 USD
     expenses:fee:conversion                            0.35 USD
     income:donation:patreon                          -15.00 USD
-    ! income:donation:patreon               -8.00 CAD @@ 5.51 USD
-    ! income:donation:patreon               -5.50 EUR @@ 6.38 USD
+    income:donation:patreon               -8.00 CAD @@ 5.55 USD  ; estimate:
+    income:donation:patreon               -5.50 EUR @@ 6.34 USD  ; estimate:
     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
     liabilities:payable:william_pierce                -8.95 USD
 
@@ -119,14 +119,14 @@
     expenses:development:tool:llm            20.00 USD
     liabilities:payable:william_pierce      -20.00 USD
 
-2025-05-30 Patreon | Donations
+2025-05-30 * Patreon | Donations
     assets:balance:patreon                            22.27 USD
     expenses:fee:payment                               2.11 USD
     expenses:fee:platform                              2.16 USD
     expenses:fee:conversion                            0.35 USD
     income:donation:patreon                          -15.00 USD
-    ! income:donation:patreon               -8.00 CAD @@ 5.51 USD
-    ! income:donation:patreon               -5.50 EUR @@ 6.38 USD
+    income:donation:patreon               -8.00 CAD @@ 5.54 USD  ; estimate:
+    income:donation:patreon               -5.50 EUR @@ 6.35 USD  ; estimate:
     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
     liabilities:payable:william_pierce                -8.95 USD
 
@@ -136,135 +136,98 @@
     expenses:tax:income                       1.66 USD  ; tax:income:33.3%
     liabilities:payable:william_pierce       -1.66 USD
 
-; 2025-06-30 ! Patreon | Donations
-;     assets:balance:patreon                            22.27 USD
-;     expenses:fee:payment                               2.11 USD
-;     expenses:fee:platform                              2.16 USD
-;     expenses:fee:conversion                            0.35 USD
-;     income:donation:patreon                          -15.00 USD
-;     income:donation:patreon               -8.00 CAD @@ 5.51 USD
-;     income:donation:patreon               -5.50 EUR @@ 6.38 USD
-;     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce                -8.95 USD
+2025-06-30 * Patreon | Donations
+    assets:balance:patreon                            13.65 USD
+    expenses:fee:payment                               1.20 USD
+    expenses:fee:platform                              1.31 USD
+    expenses:fee:conversion                            0.20 USD
+    income:donation:patreon                          -10.00 USD
+    income:donation:patreon               -5.50 EUR @@ 6.36 USD
+    expenses:tax:income                                5.45 USD  ; tax:income:33.3%
+    liabilities:payable:william_pierce                -5.45 USD
 
-; 2025-07-22 ! GitHub | Donations
-;     assets:cash:bank                          5.00 USD = 40.00 USD
-;     income:donation:github                   -5.00 USD
-;     expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce       -1.66 USD
+2025-07-31 ! Patreon | Donations
+    ; estimate:
+    assets:balance:patreon                            13.65 USD
+    expenses:fee:payment                               1.20 USD
+    expenses:fee:platform                              1.31 USD
+    expenses:fee:conversion                            0.20 USD
+    income:donation:patreon                          -10.00 USD
+    income:donation:patreon               -5.50 EUR @@ 6.36 USD
+    expenses:tax:income                                5.45 USD  ; tax:income:33.3%
+    liabilities:payable:william_pierce                -5.45 USD
 
-; 2025-07-31 ! Patreon | Donations
-;     assets:balance:patreon                            22.27 USD
-;     expenses:fee:payment                               2.11 USD
-;     expenses:fee:platform                              2.16 USD
-;     expenses:fee:conversion                            0.35 USD
-;     income:donation:patreon                          -15.00 USD
-;     income:donation:patreon               -8.00 CAD @@ 5.51 USD
-;     income:donation:patreon               -5.50 EUR @@ 6.38 USD
-;     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce                -8.95 USD
+2025-08-31 ! Patreon | Donations
+    ; estimate:
+    assets:balance:patreon                            13.65 USD
+    expenses:fee:payment                               1.20 USD
+    expenses:fee:platform                              1.31 USD
+    expenses:fee:conversion                            0.20 USD
+    income:donation:patreon                          -10.00 USD
+    income:donation:patreon               -5.50 EUR @@ 6.36 USD
+    expenses:tax:income                                5.45 USD  ; tax:income:33.3%
+    liabilities:payable:william_pierce                -5.45 USD
 
-; 2025-08-22 ! GitHub | Donations
-;     assets:cash:bank                          5.00 USD = 45.00 USD
-;     income:donation:github                   -5.00 USD
-;     expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce       -1.66 USD
+2025-09-30 ! Patreon | Donations
+    ; estimate:
+    assets:balance:patreon                            13.65 USD
+    expenses:fee:payment                               1.20 USD
+    expenses:fee:platform                              1.31 USD
+    expenses:fee:conversion                            0.20 USD
+    income:donation:patreon                          -10.00 USD
+    income:donation:patreon               -5.50 EUR @@ 6.36 USD
+    expenses:tax:income                                5.45 USD  ; tax:income:33.3%
+    liabilities:payable:william_pierce                -5.45 USD
 
-; 2025-08-31 ! Patreon | Donations
-;     assets:balance:patreon                            22.27 USD
-;     expenses:fee:payment                               2.11 USD
-;     expenses:fee:platform                              2.16 USD
-;     expenses:fee:conversion                            0.35 USD
-;     income:donation:patreon                          -15.00 USD
-;     income:donation:patreon               -8.00 CAD @@ 5.51 USD
-;     income:donation:patreon               -5.50 EUR @@ 6.38 USD
-;     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce                -8.95 USD
+2025-10-07 ! Cloudflare | williampierce.io
+    expenses:marketing:domain                45.00 USD
+    liabilities:payable:william_pierce
 
-; 2025-09-22 ! GitHub | Donations
-;     assets:cash:bank                          5.00 USD = 50.00 USD
-;     income:donation:github                   -5.00 USD
-;     expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce       -1.66 USD
+2025-10-31 ! Patreon | Donations
+    ; estimate:
+    assets:balance:patreon                            13.65 USD
+    expenses:fee:payment                               1.20 USD
+    expenses:fee:platform                              1.31 USD
+    expenses:fee:conversion                            0.20 USD
+    income:donation:patreon                          -10.00 USD
+    income:donation:patreon               -5.50 EUR @@ 6.36 USD
+    expenses:tax:income                                5.45 USD  ; tax:income:33.3%
+    liabilities:payable:william_pierce                -5.45 USD
 
-; 2025-09-30 ! Patreon | Donations
-;     assets:balance:patreon                            22.27 USD
-;     expenses:fee:payment                               2.11 USD
-;     expenses:fee:platform                              2.16 USD
-;     expenses:fee:conversion                            0.35 USD
-;     income:donation:patreon                          -15.00 USD
-;     income:donation:patreon               -8.00 CAD @@ 5.51 USD
-;     income:donation:patreon               -5.50 EUR @@ 6.38 USD
-;     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce                -8.95 USD
+2025-11-30 ! Patreon | Donations
+    ; estimate:
+    assets:balance:patreon                            13.65 USD
+    expenses:fee:payment                               1.20 USD
+    expenses:fee:platform                              1.31 USD
+    expenses:fee:conversion                            0.20 USD
+    income:donation:patreon                          -10.00 USD
+    income:donation:patreon               -5.50 EUR @@ 6.36 USD
+    expenses:tax:income                                5.45 USD  ; tax:income:33.3%
+    liabilities:payable:william_pierce                -5.45 USD
 
-; 2025-10-07 ! Cloudflare | williampierce.io
-;     expenses:marketing:domain                45.00 USD
-;     liabilities:payable:william_pierce
+2025-12-22 ! Patreon | Transfer
+    assets:balance:patreon     -126.44 USD = 0.00 USD
+    assets:cash:bank            126.19 USD = 161.19 USD
+    expenses:fee:payout           0.25 USD
 
-; 2025-10-22 ! GitHub | Donations
-;     assets:cash:bank                          5.00 USD = 55.00 USD
-;     income:donation:github                   -5.00 USD
-;     expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce       -1.66 USD
+2025-12-25 ! William Pierce | Expense Reimbursement
+    liabilities:payable:william_pierce      161.19 USD
+    assets:cash:bank                       -161.19 USD = 0.00 USD
 
-; 2025-10-31 ! Patreon | Donations
-;     assets:balance:patreon                            22.27 USD
-;     expenses:fee:payment                               2.11 USD
-;     expenses:fee:platform                              2.16 USD
-;     expenses:fee:conversion                            0.35 USD
-;     income:donation:patreon                          -15.00 USD
-;     income:donation:patreon               -8.00 CAD @@ 5.51 USD
-;     income:donation:patreon               -5.50 EUR @@ 6.38 USD
-;     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce                -8.95 USD
+2025-12-31 ! Patreon | Donations
+    ; estimate:
+    assets:balance:patreon                            13.65 USD
+    expenses:fee:payment                               1.20 USD
+    expenses:fee:platform                              1.31 USD
+    expenses:fee:conversion                            0.20 USD
+    income:donation:patreon                          -10.00 USD
+    income:donation:patreon               -5.50 EUR @@ 6.36 USD
+    expenses:tax:income                                5.45 USD  ; tax:income:33.3%
+    liabilities:payable:william_pierce                -5.45 USD
 
-; 2025-11-22 ! GitHub | Donations
-;     assets:cash:bank                          5.00 USD = 60.00 USD
-;     income:donation:github                   -5.00 USD
-;     expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce       -1.66 USD
-
-; 2025-11-30 ! Patreon | Donations
-;     assets:balance:patreon                            22.27 USD
-;     expenses:fee:payment                               2.11 USD
-;     expenses:fee:platform                              2.16 USD
-;     expenses:fee:conversion                            0.35 USD
-;     income:donation:patreon                          -15.00 USD
-;     income:donation:patreon               -8.00 CAD @@ 5.51 USD
-;     income:donation:patreon               -5.50 EUR @@ 6.38 USD
-;     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce                -8.95 USD
-
-; 2025-12-22 ! GitHub | Donations
-;     assets:cash:bank                          5.00 USD = 65.00 USD
-;     income:donation:github                   -5.00 USD
-;     expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce       -1.66 USD
-
-; 2025-12-22 ! Patreon | Transfer
-;     assets:balance:patreon     -176.48 USD = 0.00 USD
-;     assets:cash:bank            176.23 USD = 241.23 USD
-;     expenses:fee:payout           0.25 USD
-
-; 2025-12-25 ! William Pierce | Expense Reimbursement
-;     liabilities:payable:william_pierce      241.23 USD
-;     assets:cash:bank                       -241.23 USD = 0.00 USD
-
-; 2025-12-31 ! Patreon | Donations
-;     assets:balance:patreon                            22.27 USD
-;     expenses:fee:payment                               2.11 USD
-;     expenses:fee:platform                              2.16 USD
-;     expenses:fee:conversion                            0.35 USD
-;     income:donation:patreon                          -15.00 USD
-;     income:donation:patreon               -8.00 CAD @@ 5.51 USD
-;     income:donation:patreon               -5.50 EUR @@ 6.38 USD
-;     expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-;     liabilities:payable:william_pierce                -8.95 USD
-
-; 2025-12-31 ! Equity | Closing balance
-;     assets:balance:github                     0.00 USD = 0.00 USD
-;     assets:balance:patreon                  -22.06 USD = 0.00 USD
-;     assets:cash:bank                          0.00 USD = 0.00 USD
-;     liabilities:payable:william_pierce       98.39 USD = 0.00 USD
-;     equity:opening/closing
+2025-12-31 ! Equity | Closing balance
+    assets:balance:github                     0.00 USD = 0.00 USD
+    assets:balance:patreon                  -13.65 USD = 0.00 USD
+    assets:cash:bank                          0.00 USD = 0.00 USD
+    liabilities:payable:william_pierce      183.52 USD = 0.00 USD
+    equity:opening/closing
