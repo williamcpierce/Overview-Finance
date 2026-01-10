@@ -84,13 +84,45 @@
     (income:donation:patreon)                       -10.00 USD
     (income:donation:patreon)            -5.50 EUR @@ 6.36 USD
 
-~ monthly from 2025-07
-    (expenses:fee:conversion)                         0.20 USD
-    (expenses:fee:payment)                            1.20 USD
-    (expenses:fee:platform)                           1.31 USD
-    (expenses:tax:income)                             5.45 USD  ; tax:income:33.3%
+~ 2025-07
+    (expenses:fee:payment)                            1.07 USD
+    (expenses:fee:platform)                           1.32 USD
+    (expenses:fee:conversion)                         0.21 USD
+    (expenses:tax:income)                             5.47 USD  ; tax:income:33.3%
     (income:donation:patreon)                       -10.00 USD
-    (income:donation:patreon)            -5.50 EUR @@ 6.36 USD
+    (income:donation:patreon)            -5.50 EUR @@ 6.41 USD
 
-~ yearly from 2025-12
+~ 2025-08
+    (expenses:fee:payment)                            1.07 USD
+    (expenses:fee:platform)                           1.32 USD
+    (expenses:fee:conversion)                         0.21 USD
+    (expenses:tax:income)                             5.46 USD  ; tax:income:33.3%
+    (income:donation:patreon)                       -10.00 USD
+    (income:donation:patreon)            -5.50 EUR @@ 6.40 USD
+
+~ 2025-09
+    (expenses:fee:payment)                            1.07 USD
+    (expenses:fee:platform)                           1.32 USD
+    (expenses:fee:conversion)                         0.21 USD
+    (expenses:tax:income)                             5.49 USD  ; tax:income:33.3%
+    (income:donation:patreon)                       -10.00 USD
+    (income:donation:patreon)            -5.50 EUR @@ 6.46 USD
+
+~ 2025-10
+    (expenses:fee:platform)                           0.40 USD
+    (expenses:tax:income)                             1.67 USD  ; tax:income:33.3%
+    (income:donation:patreon)                        -5.00 USD
+
+~ 2025-11
+    (expenses:fee:payment)                            0.13 USD
+    (expenses:fee:platform)                           0.40 USD
+    (expenses:tax:income)                             1.67 USD  ; tax:income:33.3%
+    (income:donation:patreon)                        -5.00 USD
+
+~ monthly from 2025-12
+    (expenses:fee:platform)                           0.40 USD
+    (expenses:tax:income)                             1.67 USD  ; tax:income:33.3%
+    (income:donation:patreon)                        -5.00 USD
+
+~ yearly from 2026-01
     (expenses:fee:payout)                             0.25 USD
