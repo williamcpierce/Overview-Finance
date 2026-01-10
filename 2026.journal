@@ -3,7 +3,7 @@
     assets:balance:patreon                  113.33 USD = 113.33 USD
     assets:cash:bank                          0.00 USD = 0.00 USD
     liabilities:payable:william_pierce     -298.44 USD = -298.44 USD
-    equity:opening/closing
+    equity:opening/closing                  185.11 USD
 
 2026-01-08 * Patreon | Transfer
     assets:balance:patreon     -113.33 USD = 0.00 USD
