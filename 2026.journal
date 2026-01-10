@@ -1,0 +1,15 @@
+2026-01-01 * Equity | Closing balance
+    assets:balance:github                     0.00 USD = 0.00 USD
+    assets:balance:patreon                  113.33 USD = 113.33 USD
+    assets:cash:bank                          0.00 USD = 0.00 USD
+    liabilities:payable:william_pierce     -298.44 USD = -298.44 USD
+    equity:opening/closing
+
+2026-01-08 * Patreon | Transfer
+    assets:balance:patreon     -113.33 USD = 0.00 USD
+    assets:cash:bank            113.08 USD = 113.08 USD  ; date:2026-01-09
+    expenses:fee:payout           0.25 USD
+
+2026-01-09 * William Pierce | Expense Reimbursement
+    liabilities:payable:william_pierce      113.08 USD
+    assets:cash:bank                       -113.08 USD = 0.00 USD  ; date:2026-01-12
