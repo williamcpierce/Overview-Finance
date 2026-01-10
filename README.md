@@ -4,7 +4,7 @@ This repository tracks all financial transactions for the [Overview](https://git
 
 For information about the project's funding policies and donation methods, see the [main project repository](https://github.com/williamcpierce/Overview).
 
-## Current Status (as of June 30, 2025)
+## Current Status (as of January 9, 2026)
 
 ### Forecast
 
@@ -155,6 +155,7 @@ hledger -f all.journal reg
 -   `all.journal` - Main journal file that includes all yearly files
 -   `2024.journal` - Transactions from 2024
 -   `2025.journal` - Transactions from 2025
+-   `2026.journal` - Transactions from 2025
 
 ## Questions
 
