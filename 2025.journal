@@ -10,8 +10,6 @@
 2025-01-22 * GitHub | Donations
     assets:balance:github                   271.94 USD
     income:donation:github                 -271.94 USD
-    expenses:tax:income                      90.56 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce      -90.56 USD
 
 2025-01-29 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
@@ -22,8 +20,6 @@
     expenses:fee:payment                      0.45 USD
     expenses:fee:platform                     0.40 USD
     income:donation:patreon                  -5.00 USD
-    expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -1.66 USD
 
 2025-02-20 * OpenAI | ChatGPT Plus
     expenses:development:tool:llm            20.00 USD
@@ -32,8 +28,6 @@
 2025-02-22 * GitHub | Donations
     assets:balance:github                     5.00 USD
     income:donation:github                   -5.00 USD
-    expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -1.66 USD
 
 2025-02-24 * Screen Studio
     expenses:marketing:tool:video            29.00 USD
@@ -48,14 +42,10 @@
     expenses:fee:payment                      0.90 USD
     expenses:fee:platform                     0.80 USD
     income:donation:patreon                 -10.00 USD
-    expenses:tax:income                       3.33 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -3.33 USD
 
 2025-03-22 * GitHub | Donations
     assets:balance:github                     5.00 USD
     income:donation:github                   -5.00 USD
-    expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -1.66 USD
 
 2025-03-22 * GitHub | Transfer
     assets:balance:github     -281.94 USD = 0.00 USD
@@ -72,8 +62,6 @@
     expenses:fee:conversion                            0.14 USD
     income:donation:patreon                          -15.00 USD
     income:donation:patreon               -8.00 CAD @@ 5.56 USD
-    expenses:tax:income                                6.85 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce                -6.85 USD
 
 2025-03-31 * Patreon | Transfer
     assets:balance:patreon      -29.85 USD = 0.00 USD
@@ -91,8 +79,6 @@
 2025-04-22 * GitHub | Donations
     assets:cash:bank                         25.00 USD = 25.00 USD
     income:donation:github                  -25.00 USD
-    expenses:tax:income                       8.32 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -8.32 USD
 
 2025-04-29 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
@@ -106,14 +92,10 @@
     income:donation:patreon                          -15.00 USD
     income:donation:patreon               -8.00 CAD @@ 5.55 USD  ; estimate:
     income:donation:patreon               -5.50 EUR @@ 6.34 USD  ; estimate:
-    expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce                -8.95 USD
 
 2025-05-20 * GitHub | Donations
     assets:cash:bank                          5.00 USD = 30.00 USD
     income:donation:github                   -5.00 USD
-    expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -1.66 USD
 
 2025-05-29 * Anthropic | Claude Pro
     expenses:development:tool:llm            20.00 USD
@@ -127,14 +109,10 @@
     income:donation:patreon                          -15.00 USD
     income:donation:patreon               -8.00 CAD @@ 5.54 USD  ; estimate:
     income:donation:patreon               -5.50 EUR @@ 6.35 USD  ; estimate:
-    expenses:tax:income                                8.95 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce                -8.95 USD
 
 2025-06-21 * GitHub | Donations
     assets:cash:bank                          5.00 USD = 35.00 USD
     income:donation:github                   -5.00 USD
-    expenses:tax:income                       1.66 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -1.66 USD
 
 2025-06-30 * Patreon | Donations
     assets:balance:patreon                            13.65 USD
@@ -143,8 +121,6 @@
     expenses:fee:conversion                            0.20 USD
     income:donation:patreon                          -10.00 USD
     income:donation:patreon               -5.50 EUR @@ 6.36 USD
-    expenses:tax:income                                5.45 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce                -5.45 USD
 
 2025-07-04 * William Pierce | Expense Reimbursement
     liabilities:payable:william_pierce       35.00 USD
@@ -157,8 +133,6 @@
     expenses:fee:conversion                            0.21 USD
     income:donation:patreon                          -10.00 USD
     income:donation:patreon               -5.50 EUR @@ 6.41 USD
-    expenses:tax:income                                5.47 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce                -5.47 USD
 
 2025-08-31 * Patreon | Donations
     assets:balance:patreon                            13.80 USD
@@ -167,8 +141,6 @@
     expenses:fee:conversion                            0.21 USD
     income:donation:patreon                          -10.00 USD
     income:donation:patreon               -5.50 EUR @@ 6.40 USD
-    expenses:tax:income                                5.46 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce                -5.46 USD
 
 2025-09-30 * Patreon | Donations
     assets:balance:patreon                            13.86 USD
@@ -177,8 +149,6 @@
     expenses:fee:conversion                            0.21 USD
     income:donation:patreon                          -10.00 USD
     income:donation:patreon               -5.50 EUR @@ 6.46 USD
-    expenses:tax:income                                5.49 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce                -5.49 USD
 
 2025-10-25 * Cloudflare | williampierce.io
     expenses:marketing:domain                45.00 USD
@@ -188,27 +158,21 @@
     assets:balance:patreon                    4.60 USD
     expenses:fee:platform                     0.40 USD
     income:donation:patreon                  -5.00 USD
-    expenses:tax:income                       1.67 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -1.67 USD
 
 2025-11-30 * Patreon | Donations
     assets:balance:patreon                    4.47 USD
     expenses:fee:payment                      0.13 USD
     expenses:fee:platform                     0.40 USD
     income:donation:patreon                  -5.00 USD
-    expenses:tax:income                       1.67 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -1.67 USD
 
 2025-12-31 * Patreon | Donations
     assets:balance:patreon                    4.60 USD
     expenses:fee:platform                     0.40 USD
     income:donation:patreon                  -5.00 USD
-    expenses:tax:income                       1.67 USD  ; tax:income:33.3%
-    liabilities:payable:william_pierce       -1.67 USD
 
 2025-12-31 * Equity | Closing balance
     assets:balance:github                     0.00 USD = 0.00 USD
     assets:balance:patreon                 -113.33 USD = 0.00 USD
     assets:cash:bank                          0.00 USD = 0.00 USD
-    liabilities:payable:william_pierce      298.44 USD = 0.00 USD
-    equity:opening/closing                 -185.11 USD
+    liabilities:payable:william_pierce      136.30 USD = 0.00 USD
+    equity:opening/closing                  -22.97 USD
